@@ -1,0 +1,8 @@
+{
+  "name": "CivicFlow Smart City Feedback",
+  "description": "A futuristic municipal feedback system for reporting potholes, broken lights, and illegal dumping with AI-powered guidance and real-time tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
